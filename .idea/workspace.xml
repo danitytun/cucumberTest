@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f54895e8-7d52-4877-b25b-418f988f3136" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWGg9L6QSoSf4d1AtSY0GrRbTR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resource/feature/registerFb.feature" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="CucumberTest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cucumber" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\3.DATA\comontest\auto\Project\CucumberTest\src\test\resource\test" />
+      <recent name="D:\3.DATA\comontest\auto\Project\CucumberTest\src\test\resource\feature" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RunShopee">
+    <configuration name="Feature: registerFb (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resource/feature/registerFb.feature" />
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.main" />
+      <module name="CucumberTest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: registerFb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: registerFb" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resource/registerFb.feature" />
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="CucumberTest.App" />
+      <module name="CucumberTest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: registerFb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: registerFb" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="D:\3.DATA\comontest\auto\Project\CucumberTest\src\test\resource\feature\registerFb.feature" />
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="CucumberTest.App" />
+      <module name="CucumberTest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: registerFb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Show error message when input invalid value" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resource/feature/registerFb.feature" />
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.main" />
+      <module name="CucumberTest" />
+      <option name="NAME_FILTER" value="^Show error message when input invalid value$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Show error message when input invalid value$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Show error message when input invalid value" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="GLUE" value="stepdefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.main" />
+      <module name="CucumberTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="@Category(cucumber.RunFacebook)" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cucumber" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="category" />
+      <option name="PARAMETERS" value="" />
+      <category value="cucumber.RunFacebook" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunFacebook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cucumber" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.RunFacebook" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunShopee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cucumber" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.RunShopee" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: registerFb" />
+      <item itemvalue="Cucumber java.Feature: registerFb (1)" />
+      <item itemvalue="Cucumber java.Scenario: Show error message when input invalid value" />
+      <item itemvalue="JUnit.RunShopee" />
+      <item itemvalue="JUnit.@Category(cucumber.RunFacebook)" />
+      <item itemvalue="JUnit.RunFacebook" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunShopee" />
+        <item itemvalue="JUnit.RunFacebook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f54895e8-7d52-4877-b25b-418f988f3136" name="Default Changelist" comment="" />
+      <created>1584947544450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584947544450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Inspections" timestamp="1585823570133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1585823570133" />
+    <state x="280" y="18" key="#RunCucumber" timestamp="1585797077245">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="280" y="18" key="#RunCucumber/0.0.1366.728@0.0.1366.728" timestamp="1585797077245" />
+    <state x="274" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585797131423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585797131423" />
+    <state x="414" y="173" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585019071811" />
+    <state x="434" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585798574604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="434" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1585798574604" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1585215203365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585215203365" />
+    <state x="412" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585797053623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1585797053623" />
+    <state x="490" y="211" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585797128875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="490" y="211" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1585797128875" />
+    <state x="689" y="302" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585017274295" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585794565942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1585794565942" />
+    <state x="756" y="378" width="407" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584950994747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="378" width="407" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1584950994747" />
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585215128702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585215128702" />
+    <state x="526" y="191" key="FileChooserDialogImpl" timestamp="1585798474779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="526" y="191" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585798474779" />
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585535880929" />
+    <state width="1322" height="96" key="GridCell.Tab.0.bottom" timestamp="1585970861976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="96" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585970861976" />
+    <state width="1876" height="158" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585541123835" />
+    <state width="1322" height="96" key="GridCell.Tab.0.center" timestamp="1585970861976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="96" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585970861976" />
+    <state width="1876" height="158" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585541123835" />
+    <state width="1322" height="96" key="GridCell.Tab.0.left" timestamp="1585970861976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="96" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585970861976" />
+    <state width="1876" height="158" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585541123835" />
+    <state width="1322" height="96" key="GridCell.Tab.0.right" timestamp="1585970861976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="96" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585970861976" />
+    <state width="1876" height="158" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585541123835" />
+    <state x="328" y="0" key="SettingsEditor" timestamp="1585823753841">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="328" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585823753841" />
+    <state x="461" y="150" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585018057073" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584951260810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1584951260810" />
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1585099813198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585099813198" />
+    <state x="657" y="118" width="606" height="804" key="find.popup" timestamp="1584951277440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="118" width="606" height="804" key="find.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1584951277440" />
+    <state x="131" y="130" key="new project wizard" timestamp="1585798501843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="130" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1585798501843" />
+    <state x="342" y="220" key="new project wizard/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1585535890008" />
+  </component>
+</project>
